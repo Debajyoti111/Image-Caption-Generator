@@ -8,8 +8,8 @@ This is a image caption generator I have made using **CNN** and **RNN**. Provide
 
 Results
 =======
-[FirstImage](D:\Skill-3\DL\Image Caption Generator\1.png)
+[FirstImage](/Results/1.png)
 
-[SecondImage](D:\Skill-3\DL\Image Caption Generator\2.png)
+[SecondImage](/Results/2.png)
 
-[ThirdImage](D:\Skill-3\DL\Image Caption Generator\3.png)
+[ThirdImage](/Results/3.png)
